@@ -1,1 +1,11 @@
-# effective-dl-demo
+# einops
+
+Для установки необходимых зависимостей необходимо выполнить `pip install -r requirements.txt`
+
+Библиотека идейно воодушевлена методом [numpy.einsum](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html).
+
+К основным преимуществам относятся:
+- Совместимость с популярными библиотеками: numpy, pytorch, tensorflow, keras, и другие
+- Требуется меньше кода, чтобы получить желаемое, чем используя "родные" фреймворки
+- Читаемость кода
+- Надежность кода
